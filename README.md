@@ -1,6 +1,6 @@
 # Tailwind-CSS - Apple Landing Page
 
-Visit this project at: https://sanketdhengre.github.io/Tailwind-CSS/
+Visit this project at: https://sanketdhengre.github.io/Tailwind-CSS-Apple-Landing-Page/
 
 ![image](https://user-images.githubusercontent.com/83276393/223661534-7f99ad04-5d99-4c5b-a3a2-22e0fad2ec1f.png)
 
