@@ -1,6 +1,14 @@
 # Tailwind-CSS - Apple Landing Page
 
-Visit this project at: https://sanketdhengre.github.io/Tailwind-CSS-Apple-Landing-Page/
+This is a landing page for Apple created using the Tailwind CSS framework. It showcases the design and features of Apple's products in an aesthetically pleasing and user-friendly manner.
+
+## Features
++ Responsive design: The landing page is designed to be fully responsive, ensuring a seamless experience across different devices and screen sizes.
++ Interactive elements: The page incorporates interactive elements such as animations, hover effects, and smooth scrolling to enhance user engagement.
++ Product showcase: The landing page highlights Apple's latest products, including iPhones, MacBooks, iPads, and Apple Watches, with high-quality images and descriptive text.
++ Call-to-action: The page includes prominent call-to-action buttons that encourage visitors to explore further, such as "Learn More" and "Shop Now."
+
+### Visit this project at: https://sanketdhengre.github.io/Tailwind-CSS-Apple-Landing-Page/
 
 ![image](https://user-images.githubusercontent.com/83276393/223661534-7f99ad04-5d99-4c5b-a3a2-22e0fad2ec1f.png)
 
